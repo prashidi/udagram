@@ -1,9 +1,7 @@
-# udagram
-
 Udacity Cloud Engineering Nanodegree Project 2: Udagram
 
 ## Github Repository
-https://github.com/prashidi/cloud-developer/tree/dev/course-02/project/image-filter-starter-code
+https://github.com/prashidi/udagram
 
 ## Local deployment
 1. npm i
